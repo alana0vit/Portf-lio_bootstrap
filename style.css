@@ -1,0 +1,110 @@
+body{
+    margin: 0;
+    padding: 0;
+    color: #000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+nav{
+    background-color: #ed3833;
+    padding: 2%;
+}
+
+hr{
+    color: #ff0000;
+    margin-top: 3%;
+}
+
+p{
+    margin: 5% 5% 0 5%;
+    text-align: justify;
+}
+
+h4{
+    margin: 5%;
+    color: #8e211e;
+    font-weight: bold;
+    text-align: justify;
+}
+
+h6{
+    color: #8e211e;
+    font-weight: bold;
+    text-align: justify;
+    margin-left: 7.5%;
+}
+
+label{
+    color: #8e211e;
+}
+
+b{
+    color: #8e211e;
+}
+
+ul{
+    list-style-type: none;
+}
+
+/* Classes */
+
+.nav-link{
+    color: #000;
+}
+
+.nav-link:hover{
+    color: #fff;
+}
+
+.col-sm-4{
+    align-content: center;
+}
+
+.col-sm-8{
+    text-align: justify;
+    align-content: space-around;
+    padding: 1%;
+}
+
+.btn-outline-danger{
+    width: 60%;
+    height: 30%;
+    font-size: 150%;
+    margin: 5%;
+}
+
+.paragrafo_home{
+    margin: 0 5% 5% 5%;
+}
+
+.paragrafo_form{
+    margin: 2% 0 5% 7.5%;
+}
+
+.estilo_geral_card{
+    text-align: justify;
+    margin: 15% 15% 0 15%;
+    padding: 3%;
+    position: relative;
+    height: 73%;
+}
+
+.estilo_geral_card2{
+    text-align: justify;
+    margin: 15% 15% 0 15%;
+    padding: 3%;
+    position: relative;
+    height: 80%;
+}
+
+.card{
+    border: red double;
+}
+
+.btn-danger{
+    margin: 5%;
+}
+
+.mb-3{
+    text-align: justify;
+}
